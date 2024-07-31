@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+custom_comments: true
 ---
 
 # Create a Blog Post
